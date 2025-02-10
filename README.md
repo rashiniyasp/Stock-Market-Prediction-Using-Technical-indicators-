@@ -4,6 +4,17 @@
 **Rashi Niyas P**  
 **Email:** zda24m005@iitmz.ac.in  
 **GitHub Repository:** [Stock Market Prediction](https://github.com/rashiniyasp/Stock-Market-Prediction-Using-Technical-indicators)
+## Contents
+- [Introduction](#introduction)
+- [Dataset](#dataset)
+- [Preprocessing](#preprocessing)
+- [Feature Engineering](#feature-engineering)
+- [Model Selection](#model-selection)
+- [Results](#results)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Future Enhancements](#future-enhancements)
+- [References](#references)
 
 ## Abstract
 This project presents a machine learning approach for short-term stock market prediction using various technical indicators. Stock data was collected from Yahoo Finance and processed through feature engineering, including volume, volatility, trend, momentum, and price-based features. The data was normalized, and Principal Component Analysis (PCA) was applied for dimensionality reduction. Classification models like Logistic Regression, Random Forest, and XGBoost were trained and optimized using RandomizedSearchCV. The final evaluation was performed on unseen data from **May 29, 2024, to November 29, 2024**. Results show that engineered features significantly enhance predictive performance.
